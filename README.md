@@ -14,21 +14,10 @@
 
 ## 🎯 Current Focus
 
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Leading development on [Yumiko](https://yumiko.io/) - Building the future of AI interaction
-</div>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" alt="Growing Plant" width="25" height="25" /> Pioneering AI systems with advanced contextual awareness
-</div>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="25" height="25" /> Exploring the frontiers of AI development
-</div>
-
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Open to collaborating on innovative projects
-</div>
+- 🔭 Leading development on [Yumiko](https://yumiko.io/) - Building the future of AI interaction
+- 🌱 Pioneering AI systems with advanced contextual awareness and natural interaction
+- 💡 Exploring the frontiers of AI development and cloud architecture
+- 🤝 Open to collaborating on innovative AI and full-stack projects
 
 ## 🛠️ Technology Arsenal
 
