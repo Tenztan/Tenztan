@@ -63,7 +63,7 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tenztan&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0D1117&text_color=C0C0C0&icon_color=C0C0C0&title_color=FFFFFF" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tenztan&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=0D1117&text_color=C0C0C0&icon_color=C0C0C0&title_color=FFFFFF" align="center" />
 </div>
 
 <div align="center">
