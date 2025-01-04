@@ -81,6 +81,36 @@
 <img src="https://github-profile-trophy.vercel.app/?username=tenztan&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
+## 🌐 My Digital Universe
+
+<div align="center">
+    <a href="https://maitreyaawakens.com" target="_blank">
+        <img src="https://img.shields.io/badge/Maitreya_Awakens-Spiritual_Journey-C0C0C0?style=for-the-badge&logoColor=white&color=0D1117" alt="Maitreya Awakens" />
+    </a>
+    <br/>
+    <a href="https://yumiko.io" target="_blank">
+        <img src="https://img.shields.io/badge/Yumiko.io-AI_Innovation-C0C0C0?style=for-the-badge&logoColor=white&color=0D1117" alt="Yumiko.io" />
+    </a>
+    <br/>
+    <a href="https://r1d1.ai" target="_blank">
+        <img src="https://img.shields.io/badge/R1D1.ai-AI_Solutions-C0C0C0?style=for-the-badge&logoColor=white&color=0D1117" alt="R1D1.ai" />
+    </a>
+    <br/>
+    <a href="https://chat.vible.com" target="_blank">
+        <img src="https://img.shields.io/badge/Vible_Chat-Communication-C0C0C0?style=for-the-badge&logoColor=white&color=0D1117" alt="Vible Chat" />
+    </a>
+    <br/>
+    <a href="https://charist.vible.com" target="_blank">
+        <img src="https://img.shields.io/badge/Charist-Innovation-C0C0C0?style=for-the-badge&logoColor=white&color=0D1117" alt="Charist" />
+    </a>
+</div>
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=435&lines=Exploring+the+frontiers+of+technology;Building+the+future+of+AI;Creating+innovative+solutions" alt="Projects Typing SVG" />
+</div>
+
+
+
 ## 🤝 Connect With Me
 
 <div align="center">
