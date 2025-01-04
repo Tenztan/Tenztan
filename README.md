@@ -5,19 +5,30 @@
 # <div align="center">👋 Hey there, I'm Tenztan</div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&random=false&width=435&lines=AI+Developer;Full+Stack+Developer;Cloud+Architect" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&random=false&width=435&lines=AI+Developer;Full+Stack+Developer;Cloud+Architect;Innovation+Engineer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
-    <em>Crafting intelligent solutions at the intersection of AI and web development 🚀</em>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=435&lines=Crafting+intelligent+solutions;At+the+intersection+of+AI;And+web+development+%F0%9F%9A%80" alt="Subtitle Typing SVG" />
 </p>
 
 ## 🎯 Current Focus
 
-- 🔭 Leading development on [Yumiko](https://yumiko.io/) - Building the future of AI interaction
-- 🌱 Pioneering AI systems with advanced contextual awareness and natural interaction
-- 💡 Exploring the frontiers of AI development and cloud architecture
-- 🤝 Open to collaborating on innovative AI and full-stack projects
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Leading development on [Yumiko](https://yumiko.io/) - Building the future of AI interaction
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Seedling.png" alt="Growing Plant" width="25" height="25" /> Pioneering AI systems with advanced contextual awareness
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Bulb" width="25" height="25" /> Exploring the frontiers of AI development
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> Open to collaborating on innovative projects
+</div>
 
 ## 🛠️ Technology Arsenal
 
@@ -63,14 +74,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-
+<img src="https://github-readme-stats.vercel.app/api?username=tenztan&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=C0C0C0&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tenztan&theme=dark&background=0D1117&ring=C0C0C0&fire=C0C0C0&currStreakLabel=FFFFFF&sideLabels=C0C0C0&dates=808080)
 
+<img src="https://github-profile-trophy.vercel.app/?username=tenztan&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
-## Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 <a href="https://github.com/tenztan" target="_blank">
@@ -90,6 +101,10 @@
     <a href="https://www.buymeacoffee.com/tenztan" target="_blank">
         <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-C0C0C0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
     </a>
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
