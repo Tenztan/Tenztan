@@ -69,7 +69,8 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tenztan&theme=dark&background=0D1117&ring=C0C0C0&fire=C0C0C0&currStreakLabel=FFFFFF&sideLabels=C0C0C0&dates=808080)
 
 </div>
-## 🤝 Connect With Me
+
+## Connect With Me
 
 <div align="center">
 <a href="https://github.com/tenztan" target="_blank">
