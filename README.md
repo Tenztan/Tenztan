@@ -63,11 +63,15 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tenztan&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0D1117&text_color=C0C0C0&icon_color=C0C0C0&title_color=FFFFFF" align="center" />
+    <img src="https://github-readme-stats.vercel.app/api?username=tenztan&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=0D1117&text_color=C0C0C0&icon_color=C0C0C0&title_color=FFFFFF" align="center" />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tenztan&theme=dark&background=0D1117&ring=C0C0C0&fire=C0C0C0&currStreakLabel=FFFFFF" align="center" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tenztan&theme=dark&background=0D1117&ring=C0C0C0&fire=C0C0C0&currStreakLabel=FFFFFF&include_all_commits=true" align="center" />
+</div>
+
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=tenztan&theme=onestar&no-frame=true&no-bg=true&margin-w=4" align="center" />
 </div>
 
 ## 🤝 Connect With Me
@@ -96,4 +100,8 @@
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=tenztan&color=C0C0C0&style=flat-square" alt="Profile Views" />
+</div>
+
+<div align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31k53qvtmnblippozakj7ehx3usa&cover_image=true&theme=default&show_offline=false&background_color=0d1117&interchange=true" />
 </div>
