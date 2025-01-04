@@ -19,7 +19,7 @@
 - 💡 Exploring the frontiers of AI development and cloud architecture
 - 🤝 Open to collaborating on innovative AI and full-stack projects
 
-## 🛠️ Technology Arsenals
+## 🛠️ Technology Arsenal
 
 <table style="background-color: #1a1a1a; border-radius: 10px;">
 <tr>
