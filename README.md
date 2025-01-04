@@ -67,9 +67,12 @@
 </div>
 
 <div align="center">
-   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tenztan&theme=dark&background=0D1117&ring=C0C0C0&fire=C0C0C0&currStreakLabel=FFFFFF&sideLabels=C0C0C0&dates=808080)
-</div>
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tenztan&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&text_color=C0C0C0&icon_color=C0C0C0&title_color=FFFFFF)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tenztan&theme=dark&background=0D1117&ring=C0C0C0&fire=C0C0C0&currStreakLabel=FFFFFF&sideLabels=C0C0C0&dates=808080)
+
+</div>
 ## 🤝 Connect With Me
 
 <div align="center">
