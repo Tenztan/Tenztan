@@ -2,10 +2,10 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdyZjBnaHNrbDJkdnhjNmIxazkwMHN1ZjN4amp0cXRkYzFia2ZsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0VRJJ2BHc9t5P6Wv2O/giphy.gif" align="center" style="width: 100%" />
 </div>
 
-# <div align="center">👋 Hey there, I'm Tenztan</div>
+# <div align="center"> Hey there, I'm Tenztan</div>
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&random=false&width=435&lines=AI+Developer;Full+Stack+Developer;Cloud+Architect;Innovation+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&random=false&width=435&lines=AI+Developer;Full+Stack+Developer;Dream+coder;Innovation+Engineer;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -19,6 +19,7 @@
 - 💡 Exploring the frontiers of AI development and cloud architecture
 - 🤝 Open to collaborating on innovative AI and full-stack projects
 
+  
 ## 🛠️ Technology Arsenal
 
 <table style="background-color: #1a1a1a; border-radius: 10px;">
@@ -66,7 +67,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tenztan&theme=dark&background=0D1117&ring=C0C0C0&fire=C0C0C0&currStreakLabel=FFFFFF&sideLabels=C0C0C0&dates=808080)
 
-<img src="https://github-profile-trophy.vercel.app/?username=tenztan&theme=onestar&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🌐 My Digital Universe
