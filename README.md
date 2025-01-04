@@ -60,13 +60,12 @@
 </tr>
 </table>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tenztan&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark&bg_color=0D1117&text_color=C0C0C0&icon_color=C0C0C0&title_color=FFFFFF" align="center" />
-</div>
-
-<div align="center">
+    <h4>449 Total Contributions in the Last Year</h4>
+    <p>Including contributions from private repositories</p>
+    <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=tenztan&theme=dark&background=0D1117&ring=C0C0C0&fire=C0C0C0&currStreakLabel=FFFFFF" align="center" />
 </div>
 
