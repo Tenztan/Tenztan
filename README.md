@@ -63,7 +63,6 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tenztan&show_icons=true&count_private=true&hide_border=true&title_color=C0C0C0&icon_color=C0C0C0&text_color=FFFFFF&bg_color=0D1117" alt="GitHub Stats" />
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tenztan&theme=dark&background=0D1117&ring=C0C0C0&fire=C0C0C0&currStreakLabel=FFFFFF&sideLabels=C0C0C0&dates=808080)
 
