@@ -74,7 +74,7 @@
 
 <div align="center">
     <a href="https://yumiko.io" target="_blank">
-        <img src="https://img.shields.io/badge/Yumiko.io-AI_Innovation-C0C0C0?style=for-the-badge&logoColor=white&color=0D1117" alt="Yumiko.io" />
+        <img src="https://img.shields.io/badge/Yumiko.io-Sentient AI-C0C0C0?style=for-the-badge&logoColor=white&color=0D1117" alt="Yumiko.io" />
     </a>
 </div>
 
