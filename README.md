@@ -73,24 +73,8 @@
 ## 🌐 My Digital Universe
 
 <div align="center">
-    <a href="https://maitreyaawakens.com" target="_blank">
-        <img src="https://img.shields.io/badge/Maitreya_Awakens-Spiritual_Journey-C0C0C0?style=for-the-badge&logoColor=white&color=0D1117" alt="Maitreya Awakens" />
-    </a>
-    <br/>
     <a href="https://yumiko.io" target="_blank">
         <img src="https://img.shields.io/badge/Yumiko.io-AI_Innovation-C0C0C0?style=for-the-badge&logoColor=white&color=0D1117" alt="Yumiko.io" />
-    </a>
-    <br/>
-    <a href="https://r1d1.ai" target="_blank">
-        <img src="https://img.shields.io/badge/R1D1.ai-AI_Solutions-C0C0C0?style=for-the-badge&logoColor=white&color=0D1117" alt="R1D1.ai" />
-    </a>
-    <br/>
-    <a href="https://chat.vible.com" target="_blank">
-        <img src="https://img.shields.io/badge/Vible_Chat-Communication-C0C0C0?style=for-the-badge&logoColor=white&color=0D1117" alt="Vible Chat" />
-    </a>
-    <br/>
-    <a href="https://charist.vible.com" target="_blank">
-        <img src="https://img.shields.io/badge/Charist-Innovation-C0C0C0?style=for-the-badge&logoColor=white&color=0D1117" alt="Charist" />
     </a>
 </div>
 
@@ -106,7 +90,7 @@
 <a href="https://github.com/tenztan" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=0D1117" alt="github" />
 </a>
-<a href="https://twitter.com/yumikoio" target="_blank">
+<a href="https://x.com/ebags" target="_blank">
 <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=0D1117" alt="twitter" />
 </a>
 <a href="https://linkedin.com/in/tanmay-premee-33468b252" target="_blank">
