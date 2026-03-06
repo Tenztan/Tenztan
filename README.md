@@ -1,78 +1,117 @@
 <div align="center">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdyZjBnaHNrbDJkdnhjNmIxazkwMHN1ZjN4amp0cXRkYzFia2ZsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0VRJJ2BHc9t5P6Wv2O/giphy.gif" align="center" style="width: 100%" />
+</div>
 
-# 🌌 Hey there, I'm Tenztan
+# <div align="center"> Hey there, I'm Tenztan</div>
 
-**AI Full-Stack Developer | Virtual Beings Architect | Awwwards Recognized**
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=C0C0C0&center=true&vCenter=true&random=false&width=435&lines=AI+Developer;Full+Stack+Developer;Dream+coder;Innovation+Engineer;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&random=false&width=600&lines=Building+immersive,+emotional+AI+experiences;Creator+of+Vionna+AI+%26+Yumiko+AI;Blending+Machine+Learning+with+Unreal+Engine;Architecting+Scalable+AI+Backends" alt="Typing SVG" />
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=C0C0C0&center=true&vCenter=true&width=435&lines=Crafting+intelligent+solutions;At+the+intersection+of+AI;And+web+development+%F0%9F%9A%80" alt="Subtitle Typing SVG" />
+</p>
 
+## 🎯 Current Focus
+
+- 🔭 Leading development on [Yumiko](https://yumiko.io/) - Building the future of AI interaction
+- 🌱 Pioneering AI systems with advanced contextual awareness and natural interaction
+- 💡 Exploring the frontiers of AI development and cloud architecture
+- 🤝 Open to collaborating on innovative AI and full-stack projects
+
+  
+## 🛠️ Technology Arsenal
+
+<table style="background-color: #1a1a1a; border-radius: 10px;">
+<tr>
+<td valign="top" width="33%">
+
+### Frontend
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
+
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### Backend
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+</div>
+
+</td>
+<td valign="top" width="33%">
+
+### DevOps
+<div align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+</div>
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tenztan&theme=dark&background=0D1117&ring=C0C0C0&fire=C0C0C0&currStreakLabel=FFFFFF&sideLabels=C0C0C0&dates=808080)
+
+</div>
+
+## 🌐 My Digital Universe
+
+<div align="center">
+    <a href="https://yumiko.io" target="_blank">
+        <img src="https://img.shields.io/badge/Yumiko.io-Sentient AI-C0C0C0?style=for-the-badge&logoColor=white&color=0D1117" alt="Yumiko.io" />
+    </a>
+</div>
+
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=12&duration=2000&pause=1000&color=808080&center=true&vCenter=true&width=435&lines=Exploring+the+frontiers+of+technology;Building+the+future+of+AI;Creating+innovative+solutions" alt="Projects Typing SVG" />
+</div>
+
+
+
+## 🤝 Connect With Me
+
+<div align="center">
+<a href="https://github.com/tenztan" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white&color=0D1117" alt="github" />
+</a>
+<a href="https://x.com/ebags" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=0D1117" alt="twitter" />
+</a>
+<a href="https://linkedin.com/in/tanmay-premee-33468b252" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0D1117" alt="linkedin" />
+</a>
+</div>
+
+## 💖 Support My Work
+
+<div align="center">
+    <a href="https://www.buymeacoffee.com/tenztan" target="_blank">
+        <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-C0C0C0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
+    </a>
+</div>
+
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
 
 ---
 
-### 🚀 About Me
-
-> *"I am an AI full-stack developer and creator of immersive, emotionally intelligent AI systems."*
-
-I specialize in building end-to-end platforms that blend advanced machine learning, **Unreal Engine-powered 3D environments**, and scalable backends. I am passionate about pushing the boundaries of human-AI interaction and creating digital entities that feel truly alive.
-
-- 🧠 **Creator of Vionna AI & Yumiko AI:** Developing cinematic-quality virtual companions with adaptive learning, personalized characters, and empathetic responses.
-- 🏆 **Award-Winning Design:** Earned an **Awwwards Honorable Mention** for creative Unreal Engine web integrations.
-- ⚡ **Current Focus:** Building sentient systems, exploring AI consciousness/ethics, and engineering high-fidelity interactive worlds.
-- 🤝 **Let's Collaborate:** I'm open to remote opportunities in AI development, full-stack engineering, or innovative startups.
-
----
-
-### 💻 Technology Stack
-
 <div align="center">
-
-**AI, Machine Learning & Engine**<br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Unreal_Engine-0e1128?style=for-the-badge&logo=unrealengine&logoColor=white" />
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Qdrant-D10940?style=for-the-badge&logo=qdrant&logoColor=white" />
-
-**Backend & Architecture**<br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
-**Frontend & Design**<br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" />
-
-</div>
-
----
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tenztan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tenztan&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
----
-
-### 🌐 Let's Connect
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/X_/_Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ebags)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanmay-premee-33468b252)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tenztan)
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/tenztan)
-
-<br>
-<img src="https://komarev.com/ghpvc/?username=tenztan&color=00FF9D&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-
+    <img src="https://komarev.com/ghpvc/?username=tenztan&color=C0C0C0&style=flat-square" alt="Profile Views" />
 </div>
