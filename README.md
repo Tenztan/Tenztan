@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmdyZjBnaHNrbDJkdnhjNmIxazkwMHN1ZjN4amp0cXRkYzFia2ZsOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0VRJJ2BHc9t5P6Wv2O/giphy.gif" align="center" style="width: 100%" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3ptbnp3bXF1d3lweGV2eGhraGozdThmM3U5NXJpNHZzbzQwODJpcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eIL5xv1bB5SDK/giphy.gif" align="center" style="width: 100%" />
 </div>
 
 # <div align="center"> Hey there, I'm Tenztan</div>
