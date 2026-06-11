@@ -21,7 +21,7 @@
 
 
 [![Portfolio](https://img.shields.io/badge/tenztan.in-Portfolio-4A81C2?style=flat-square&logoColor=white)](https://tenztan.in)
-[![One Page Love](https://img.shields.io/badge/One%20Page%20Love-Featured-E2A746?style=flat-square)](https://onepagelove.com)
+[![One Page Love](https://img.shields.io/badge/One%20Page%20Love-Featured-E2A746?style=flat-square)]([https://onepagelove.com](https://onepagelove.com/tenztan))
 [![Awwwards](https://img.shields.io/badge/Awwwards-Honorable%20Mention-1A1A1A?style=flat-square)](https://awwwards.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/tanmay-premee-33468b252)
 
