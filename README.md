@@ -9,7 +9,7 @@
    ╚═╝   ╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
-**AI Engineer · Creative Technologist · WebGL Architect**
+**AI Engineer · Creative Technologist · WebGL / WebGPU Architect**
 
 <div align="center">
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWtpeXE4cDA3cnVsMXdoYmQ0Y2xuZzE0c2Q3Nmt1OHJ0YzJvZ2JoMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GYtblmdLnemlO/giphy.gif" align="center" style="width: 100%" />
@@ -21,8 +21,10 @@
 
 
 [![Portfolio](https://img.shields.io/badge/tenztan.in-Portfolio-4A81C2?style=flat-square&logoColor=white)](https://tenztan.in)
+[![Lab](https://img.shields.io/badge/tenztanlab-30%20WebGL%20%2F%20WebGPU%20experiments-6B5BD2?style=flat-square)](https://www.tenztan.in/tenztanlab/)
+[![Nightlyte](https://img.shields.io/badge/Nightlyte-Studio-1A1A1A?style=flat-square)](https://nightlyte.in)
 [![One Page Love](https://img.shields.io/badge/One%20Page%20Love-Featured-E2A746?style=flat-square)](https://onepagelove.com/tenztan)
-[![Awwwards](https://img.shields.io/badge/Awwwards-Honorable%20Mention-1A1A1A?style=flat-square)](https://awwwards.com)
+[![Awwwards](https://img.shields.io/badge/Awwwards-Nominee-1A1A1A?style=flat-square)](https://awwwards.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/tanmay-premee-33468b252)
 
 </div>
@@ -34,8 +36,12 @@
 | Platform | Recognition |
 |---|---|
 | 🏆 **One Page Love** | Hand-picked feature — *"Very unique!!"* — Rob Hope |
-| 🥇 **Awwwards** | Honorable Mention — Vionna.life |
+| 🥇 **Awwwards** | Nominee — Vionna.life (Dec 2025) |
 | 🌐 **tenztan.in** | Personal portfolio  |
+| 🇯🇵 **LIG Inc. Japan** | Featured in frontend roundup — tenztan.in (Jul 2026) |
+| 📝 **note (sasakiyo, Japan)** | Featured — tenztan.in (Jul 2026) |
+| 🇰🇷 **Nook, South Korea** | Featured — tenztan.in (Jul 2026) |
+| ✨ **Land-book · Muzli · Peek Paper** | Featured — tenztan.in (2026) |
 
 ---
 
@@ -47,42 +53,32 @@ I don't build websites. I build **experiences** — production AI systems with r
 
 **On the creative side:** WebGL 2.0 ecosystems with custom GLSL, 150,000-particle galaxy renderers, scroll-driven frame-sequence cinematics, AI companions with expression state machines and voice synthesis.
 
+**On the WebGPU side:** TSL and WGSL compute shaders, ray-marched volumetric skies and clouds, 3D textures, and neural rendering that runs a Cycles-trained model live in the browser.
+
 ---
 
 ## Selected Work
 
-### 🤖 Vionna AI — *Production AI Companion Platform*
-> Built solo at Persist Ventures. Multi-character virtual companion ecosystem powering real conversations at scale.
-- LangChain + Groq-powered Llama 3/4 for sub-second inference with runtime model switching
-- Qdrant RAG with INT8 quantization — **97% storage reduction**, zero recall loss
-- Unreal Engine emotion pipeline: LLM → single-word state → real-time 3D avatar rigging
-- Atomic MongoDB + Stripe webhook replay protection, Google OAuth 2.0, CSRF-safe JWT
+### 🤖 Vionna AI — *AI Companion Platform*
+- Built solo: LLM chat, Qdrant memory (97% smaller), live TTS, Unreal avatar emotions
 
-### 🧠 Yumiko AI — *Autonomous Sentient Agent*
-> Operating independently across Telegram, X, and Web. No triggers. Self-initiated behavior.
-- Stochastic behavioral engine using probabilistic state machines
-- Temporal memory decay via Ebbinghaus forgetting curves applied to vector embeddings
-- Real-time emotion classification → continuous personality + bonding metric modulation
-- Open-sourced v1 architecture on GitHub
+### 🧠 Yumiko AI — *Autonomous Agent*
+- Self-driven agent on Telegram, X and Web with memory decay and emotion → [Yumiko-v1-public](https://github.com/Tenztan/Yumiko-v1-public)
 
 ### 🌌 Multiverse — *WebGL Cosmology*
-> 4 distinct rendering environments mapping Hindu cosmology. 750-frame scroll sequencer + live WebGL.
-- 150,000-star Milky Way in BufferGeometry, 3,000 asteroids in a **single draw call** via InstancedMesh
-- GPGPU-inspired MeshSurfaceSampler + Curl Noise → 70,000-vertex character morphing
-- Deferred async raycasting via `requestIdleCallback` for CatmullRomCurve3 terrain draping
-- Volumetric God Rays, UnrealBloom, PMREM PBR — strict 60fps across all scenes
+- 150,000 stars, 3,000 asteroids in one draw call, 70,000-vertex curl-noise morphing, 60fps
 
-### 🎬 Vionna.life — *Awwwards Honorable Mention*
-> Cinematic landing experience. 225-frame scroll-locked sequencer → live WebGL solar system.
-- Custom GLSL: chromatic aberration, fluid distortion, cursor-velocity interaction
-- Multi-pass post-processing: UnrealBloom, HDR env mapping, PBR lighting
-- Zero-latency memory pre-fetching + canvas buffer pooling
+### 🎬 Vionna.life — *Awwwards Nominee*
+- Scroll-locked frame sequence into a live WebGL solar system, custom GLSL distortion
 
-### 🔬 TwelveTech Labs — *Corporate WebGL Platform*
-> Marching Cubes metaball simulation in the hero. Zero-jank scroll architecture throughout.
-- Real-time fluid dynamics mapped to cursor velocity
-- 3D Simplex Noise vertex displacement, Fresnel rim-lighting, specular inner-glow
-- IntersectionObserver render-loop freezing for off-screen canvases
+### 🔬 TwelveTech Labs — *WebGL Platform*
+- Metaball hero, 70,000-particle sculpture, curl-noise transitions, god rays, 60fps
+
+### 🌙 Nightlyte — *Studio Website*
+- Designed and built → [nightlyte.in](https://nightlyte.in)
+
+### 🧪 Tenztan Lab — *30 WebGL & WebGPU Experiments*
+- Makrion neural portrait, ray-marched cloud terraces, scroll galleries, eye studies → [tenztanlab](https://www.tenztan.in/tenztanlab/)
 
 ---
 
@@ -98,6 +94,8 @@ Agentic State Machines  Lenis Smooth Scroll       Docker / WebSockets
 Temporal Memory Decay   InstancedMesh / GPGPU     OAuth 2.0 / JWT
 Ebbinghaus Curves       PostProcessing API        Stripe Webhooks
 Vector Quantization     Canvas / OffscreenCanvas  TTS Streaming
+PyTorch                 WebGPU / TSL / WGSL       Unreal Engine
+Neural Rendering        Ray-marching / 3D Tex     Blender
 ```
 
 ---
@@ -109,17 +107,17 @@ Vector Quantization     Canvas / OffscreenCanvas  TTS Streaming
 > capability by being the AI. Every technical decision is 
 > also a design decision.*
 
-- Render budget is allocated, not assumed  every scene has 
+- Render budget is allocated, not assumed — every scene has 
   a defined performance contract before a line is written
-- Mobile is a different device, not a smaller desktop 
+- Mobile is a different device, not a smaller desktop — 
   parallel execution paths, not responsive overrides
-- Memory architecture precedes feature architecture 
+- Memory architecture precedes feature architecture — 
   RAG quantization, particle budgets, and buffer pooling 
   are first-class design constraints
-- State machines over conditionals expression systems, 
+- State machines over conditionals — expression systems, 
   agent behavior, and scroll choreography all run on 
   explicit state graphs
-- The browser is a creative medium with physical limits 
+- The browser is a creative medium with physical limits — 
   respecting those limits produces better art than ignoring them
 
 ---
@@ -137,9 +135,10 @@ Vector Quantization     Canvas / OffscreenCanvas  TTS Streaming
 ---
 
 
-Based in India · Available for freelance & full-time · Koujitsu ~
+Based in India · Available for freelance & full-time · Open to remote creative-developer roles · Koujitsu ~
 
 
 [![Portfolio](https://img.shields.io/badge/→%20tenztan.in-View%20Portfolio-4A81C2?style=for-the-badge)](https://tenztan.in)
+[![Lab](https://img.shields.io/badge/→%20tenztanlab-Explore%20the%20Lab-6B5BD2?style=for-the-badge)](https://www.tenztan.in/tenztanlab/)
 
 </div>
