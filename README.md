@@ -6,7 +6,7 @@
    ██║   █████╗  ██╔██╗ ██║  ███╔╝    ██║   ███████║██╔██╗ ██║
    ██║   ██╔══╝  ██║╚██╗██║ ███╔╝     ██║   ██╔══██║██║╚██╗██║
    ██║   ███████╗██║ ╚████║███████╗   ██║   ██║  ██║██║ ╚████║
-   ╚═╝   ╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
+    ╚═╝   ╚══════╝╚═╝  ╚═══╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝
 ```
 
 **AI Engineer · Creative Technologist · WebGL / WebGPU Architect**
@@ -63,7 +63,7 @@ I don't build websites. I build **experiences** — production AI systems with r
 - Built solo: LLM chat, Qdrant memory (97% smaller), live TTS, Unreal avatar emotions
 
 ### 🧠 Yumiko AI — *Autonomous Agent*
-- Self-driven agent on Telegram, X and Web with memory decay and emotion → [Yumiko-v1-public](https://github.com/Tenztan/Yumiko-v1-public)
+- Self-driven agent on Telegram, X and Web with memory decay and emotion
 
 ### 🌌 Multiverse — *WebGL Cosmology*
 - 150,000 stars, 3,000 asteroids in one draw call, 70,000-vertex curl-noise morphing, 60fps
